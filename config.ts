@@ -1,13 +1,13 @@
 // SITE CONFIG
 export const NEXT_PUBLIC_SITE_NAME =
-  process.env.NEXT_PUBLIC_SITE_NAME || "reelnn";
+  process.env.NEXT_PUBLIC_SITE_NAME || "Arise";
 
 export const NEXT_PUBLIC_FOOTER_DESC =
   process.env.NEXT_PUBLIC_FOOTER_DESC ||
   "This website does not host any files on its own servers; it simply provides links to media files stored in telegram.";
 
 export const NEXT_PUBLIC_TELEGRAM_CONTACT =
-  process.env.NEXT_PUBLIC_FOOTER_COPYRIGHT || "https://t.me/reelnnUpdates";
+  process.env.NEXT_PUBLIC_FOOTER_COPYRIGHT || "https://t.me/Rkn_Sofi";
 
 export const NEXT_PUBLIC_WHATSAPP_CONTACT =
   process.env.NEXT_PUBLIC_WHATSAPP_CONTACT || "";
@@ -23,12 +23,12 @@ export const BACKEND_URL = process.env.BACKEND_URL || "http://0.0.0.0:6519";
 
 // Telegram
 export const NEXT_PUBLIC_TELEGRAM_BOT_NAME =
-  process.env.NEXT_PUBLIC_TELEGRAM_BOT_NAME || "reelnnbot";
+  process.env.NEXT_PUBLIC_TELEGRAM_BOT_NAME || "Aeise04_bot";
 
 
 // Shortener API
-export const SHORTENER_API_URL = process.env.SHORTENER_API_URL || '';
-export const SHORTENER_API_KEY = process.env.SHORTENER_API_KEY || '';
+export const SHORTENER_API_URL = process.env.SHORTENER_API_URL || 'Softurl.in';
+export const SHORTENER_API_KEY = process.env.SHORTENER_API_KEY || '51d9f85b4339cd69ebed5585a94241a69bb6d13a';
 
 
 
